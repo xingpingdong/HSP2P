@@ -1,0 +1,4 @@
+eta: 4.000000
+sigma: 0.100000
+gamma: 1.000000
+Total elapsed time is 1.035196 seconds (excluding reading and writing images).
